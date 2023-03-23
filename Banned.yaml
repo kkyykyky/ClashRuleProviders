@@ -1,0 +1,19 @@
+﻿payload:
+# google
+  - DOMAIN-KEYWORD,google
+  - DOMAIN-SUFFIX,ggpht.com
+  - DOMAIN-SUFFIX,gstatic.com
+
+# youtube
+  - DOMAIN-SUFFIX,ytimg.com
+  - DOMAIN-KEYWORD,youtube
+
+# pixiv
+  - DOMAIN-KEYWORD,pixiv
+  - DOMAIN-SUFFIX,pximg.net
+
+# twitter
+  - DOMAIN-KEYWORD,twitter
+
+# facebook
+  - DOMAIN-KEYWORD,facebook
